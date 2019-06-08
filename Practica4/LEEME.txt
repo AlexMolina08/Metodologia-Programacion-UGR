@@ -1,0 +1,5 @@
+
+IMPORTANTE
+------------------------------------
+
+		*) En las carpetas ejercicio1 y ejercicio2 se encuentra el código y un makefile que debe ejecutarse para obtener el binario. 
