@@ -1,4 +1,4 @@
-# Metodologñia de la Programación UGR
+# Metodología de la Programación UGR
 
 Mis prácticas y examen hechos de la asignatura MP impartida por la UGR.
 
