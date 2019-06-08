@@ -2,23 +2,28 @@
 
 Mis prácticas y examen hechos de la asignatura MP impartida por la UGR.
 
-Cada ejercicio se divide en las carpetas siguientes:
+Cada ejercicio contiene lo siguiente:
 
-<ejercicio>
-.
-  <src>
+
+  ## src
+  
     Contiene los archivos .cpp
   
-  <include>
+  ## include
+    
     Contiene los archivos .h (Encabezados)
     
-  <obj>
+  ## obj
+  
     Contiene los archivos objeto
   
-  <bin>
+  ## bin
+  
      Contiene los archivos ejecutables
      
-  Makefile <- Encargado de realizar la compilación y enlazado de los archivos
+  ## Makefile 
+  
+    Encargado de realizar la compilación y enlazado de los archivos
      
      
     
